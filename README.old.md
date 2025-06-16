@@ -22,6 +22,15 @@ ATTENTION PAS DE MAJUSCULE DANS LE NOM DU PROJET ⇒ REACT NE VEUT PAS
 
 Sur mon Pc node et déjà installé car je l'ai déjà utiliser. Je peux donc utiliser npm.
 
-Dans mon terminal de vs code et dans le bon répertoire
+Dans mon terminal de vs code et dans le bon répertoire =
 
 npx crete-react-app .
+
+Je vais travailler sans vite
+
+## pour lancer mon serveur
+
+npm start
+
+ok -> fenêtre dans mon navigateur
+
